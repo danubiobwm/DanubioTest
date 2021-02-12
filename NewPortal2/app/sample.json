@@ -1,0 +1,24 @@
+{
+    "quotes": [
+        {
+            "id":1,
+            "author": "Marcelo Oliveira/UOL",
+            "text": "O ouvidor da Polícia, Elizeu Soares Lopes (de terno), conversa com os jovens Eryk (com uma criança no colo), Kelvin (abraçado com a esposa) e Alexssandro (sentado) e seus pais"
+        },
+        {
+            "id":2,
+            "author": "Cesar Sacheto e Joyce Ribeiro, do R7",
+            "text": "Violência assusta frequentadores da Barra Funda, zona oeste de SP"
+        },
+        {
+            "id":3,
+            "author": "ACIC",
+            "text": "Quatro tecnologias que melhoram a experiência do cliente na loja física"
+        },
+        {
+            "id":4,
+            "author": "Eleanor",
+            "text": "Estão abertas as inscrições para o Programa de Atualização em Tecnologias Educacionais"
+        }
+    ]
+}
